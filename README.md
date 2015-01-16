@@ -33,4 +33,4 @@ A - Sent my macbook into the Apple Store for a screen repair. Wanted to know wha
 
 Q - Why you no Kernel-level keylogger?
 
-A - Lol @ writing kernel extensions.
+A - LOL @ writing Kernel extensions.
