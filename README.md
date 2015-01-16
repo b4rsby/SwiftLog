@@ -28,3 +28,9 @@ A - NSEvent does not allow you to receive keypress events while a password field
 Q - Why bother creating this?
 
 A - Sent my macbook into the Apple Store for a screen repair. Wanted to know what the techs were up to.
+
+-- 
+
+Q - Why you no Kernel-level keylogger?
+
+A - Lol @ writing kernel extensions.
