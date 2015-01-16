@@ -9,6 +9,7 @@ Log files will be stored to in application support of the user that executed the
 ```
 ~/Library/Application Support/com.AntiHaus.SwiftLog
 ```
+Tested on OS X 10.10
 > **TODO:**
 > - Log modifierFlags for key presses.
 > - Create a write buffer, cut down on direct file I/0 writes.
