@@ -32,6 +32,6 @@ A - Sent my macbook into the Apple Store for a screen repair. Wanted to know wha
 
 -- 
 
-Q - Why you no Kernel-level keylogger?
+Q - Why you no direct detect from keyboard?
 
-A - LOL @ writing Kernel extensions.
+A - Kernel extensions are hard. 
